@@ -1,0 +1,2 @@
+# maid
+Discord bot, WIP
