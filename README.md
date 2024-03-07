@@ -1,8 +1,6 @@
-Certainly! Below is a basic template for your README file. You can customize it further based on the specifics of your project. Replace placeholder texts with your actual project information.
-
 # Project Inu Discord Bot
 
-Welcome to Project Inu! This Discord bot is designed to provide various features for your server, including ticket creation, moderation commands, and more.
+Welcome to Project Inu! This Discord bot is designed to provide various features for your server, including ticket creation, moderation commands, and more. This is my first time making a bot, so updates are to be expected.
 
 ## Table of Contents
 
