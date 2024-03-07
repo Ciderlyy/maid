@@ -19,7 +19,7 @@ Welcome to Project Inu! This Discord bot is designed to provide various features
 - Ticket creation system for support and other purposes.
 - Moderation commands (ban, kick, mute, unmute).
 - Role selection through reactions.
-- Apex Coins information and promotion.
+- Information and promotion. (Currently the bot is apex coins because i designed it to be that way)
 
 ## Getting Started
 
